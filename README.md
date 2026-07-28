@@ -1,2 +1,2 @@
 # Student-Management-VS-4
-Student Management System Version 4 built with Python and JSON file handling.
+A Python-based Student Management System using JSON for persistent data storage. Supports Add, Search, Update, Delete, and Sort operations.
